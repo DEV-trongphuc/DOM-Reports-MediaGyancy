@@ -3,11 +3,11 @@ const accessToken =
 
 const quickFilter = [
   "Lead Form",
-  "Awareness",
-  "Engagement",
   "Message",
+  "Engagement",
   "Traffic",
   "Pagelike",
+  "Awareness",
 ];
 let isBrand = false;
 const accName = "Media Gyancy";
